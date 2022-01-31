@@ -5,9 +5,12 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <>
+    <h1>hello world</h1>
+    <h1>HM TAlha</h1>
+    <h1>web and mobile application</h1>
+    <h1>Jawan Pakistan</h1>
+  </>,
   document.getElementById('root')
 );
 
